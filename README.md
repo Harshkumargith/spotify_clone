@@ -22,7 +22,4 @@ https://github.com/Harshkumargith/spotify_clone
 - Responsive for all screen sizes  
 - Hover effects and UI interactions
 
-## 📄 License
 
-MIT License  
-**Author**: Harsh Kumar
