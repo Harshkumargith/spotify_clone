@@ -11,7 +11,8 @@ A responsive front-end clone of Spotify built with **HTML**, **CSS**, and **Boot
 ## 🚀 How to Run
 
 1. Clone the repo
-   git clone 
+
+https://github.com/Harshkumargith/spotify_clone
 
 3. Open `index.html` in your browser
 
